@@ -1,9 +1,7 @@
----
-title: Welcome to my blog!
----
+
 # Tajdar Khalil
 
-**Undergraduate Data Science Student | Aspiring AI Developer**
+**Undergraduate Data Science Student  Aspiring AI Developer**
 
 > #### About Me
 > 
